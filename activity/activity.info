@@ -1,0 +1,8 @@
+[Activity]
+name = Acerca de Mí
+bundle_id = org.laptop.AboutMe
+service_name = org.laptop.AboutMe
+icon = activity-default
+class = aboutme_app.AboutMeActivity
+activity_version = 2
+show_launcher = yes
